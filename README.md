@@ -4,14 +4,14 @@
 --frontend
 --server
 
-##SERVER
+## SERVER
 
 * For starting up the server side, navigate into server folder from root folder
 * cd server
 * nodemon index.js (For starting the server)
 * Once the server is ready navigate back to root folder by using commmand, cd ..
 
-##FRONT-END
+## FRONT-END
 
 
 * For starting the front-end services, navigate into frontend folder from root folder
@@ -21,10 +21,10 @@
 
 ### Start in browser
 
-####Server  
+#### Server  
 * http://localhost:1234
 
-####Frontend
+#### Frontend
 * http://localhost:4200
 
 
