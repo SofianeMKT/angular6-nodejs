@@ -2,10 +2,10 @@
 
 ## Tech/Framework used
 
-* Angular6 [a link](https://angular.io/)
-* NodeJS [a link](https://angular.io/)
-* Express [a link](https://expressjs.com/)
-* MongoDB [a link](https://www.mongodb.com/)
+* [Angular6](https://angular.io/)
+* [NodeJS](https://angular.io/)
+* [Express](https://expressjs.com/)
+* [MongoDB](https://www.mongodb.com/)
 
 ## SERVER
 
