@@ -8,7 +8,7 @@ import { UserService } from '../user.service';
 })
 export class DashboardComponent implements OnInit {
 
-  message = "Loading...."
+  message = "Loading... "
 
   constructor(private user: UserService) { }
 

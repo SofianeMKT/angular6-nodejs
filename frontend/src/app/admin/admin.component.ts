@@ -8,7 +8,7 @@ import { UserService } from '../user.service';
 })
 export class AdminComponent implements OnInit {
 
-  message = "Loading...."
+  message = "Login Successful!  "
 
   constructor(private user: UserService) { }
 

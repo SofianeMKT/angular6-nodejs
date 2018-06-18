@@ -26,9 +26,14 @@ cd ..
 ## FRONT-END
 
 
-* For starting the front-end services, navigate into frontend folder from root folder
-* cd frontend
-* npm start (To build to start Angular Project)
+For starting the front-end services, navigate into frontend folder from root folder
+```
+cd frontend
+```
+To build to start Angular Project
+```
+npm start
+```
 
 
 ### Start in browser
@@ -41,5 +46,6 @@ cd ..
 
 
 ## RUN TESTS
-
-* npm test
+```
+npm test
+```
