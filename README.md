@@ -1,8 +1,11 @@
 # Holition Challenge- Software Engineer
 
 ## PROJECT STRUCTURE
---frontend
---server
+.
+├── server                   # Serverside implementation of task
+├── frontend                 # Frontend implementation of task using Angular 6
+├── package.json                  
+└── README.md
 
 ## SERVER
 
