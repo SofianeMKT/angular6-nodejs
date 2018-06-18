@@ -1,18 +1,27 @@
 # Holition Challenge- Software Engineer
 
-## PROJECT STRUCTURE
-.
-├── server                   # Serverside implementation of task
-├── frontend                 # Frontend implementation of task using Angular 6
-├── package.json                  
-└── README.md
+## Tech/Framework used
+
+* Angular6 [a link](https://angular.io/)
+* NodeJS [a link](https://angular.io/)
+* Express [a link](https://expressjs.com/)
+* MongoDB [a link](https://www.mongodb.com/)
 
 ## SERVER
 
-* For starting up the server side, navigate into server folder from root folder
-* cd server
-* nodemon index.js (For starting the server)
-* Once the server is ready navigate back to root folder by using commmand, cd ..
+For starting up the server side, navigate into server folder from root folder
+```
+cd server
+```
+For starting the server
+```
+nodemon index.js
+```
+
+Once the server is ready navigate back to root folder by using commmand
+```
+cd ..
+```
 
 ## FRONT-END
 
